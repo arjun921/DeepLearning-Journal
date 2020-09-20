@@ -27,3 +27,7 @@ Please don't judge! 🙈
 - Visualizations
   - [Layers visualized, or how a CNN actually sees the image](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-1/cats-vs-dogs.ipynb)
 - [Manual data split in directories](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-1/cats-v-dogs-manual-split-passed-submission.ipynb)
+- [Transfer-Learning](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-3/transfer-learning.ipynb)
+  - Freeze layers
+  - Add layers to pretrained model
+  
