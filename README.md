@@ -24,6 +24,21 @@ Please don't judge! 🙈
   - [Experiment 2](/coursera-TFInPractiseSpecialization/intro-to-tf/Week_3/Course_1_Part_6_Lesson_3_Notebook.ipynb)
 - Cats vs dogs
   - [CNN](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-1/cats-vs-dogs.ipynb)
+  - [CNN with augmentation](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-2/cats-vs-dogs-augmented.ipynb)
 - Visualizations
   - [Layers visualized, or how a CNN actually sees the image](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-1/cats-vs-dogs.ipynb)
 - [Manual data split in directories](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-1/cats-v-dogs-manual-split-passed-submission.ipynb)
+- [Transfer-Learning](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-3/transfer-learning.ipynb)
+  - Freeze layers
+  - Add layers to pretrained model
+  - Augmentation
+- Horses vs Humans
+  - [CNN transfer learning](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-3/humans-vs-horses-submission.ipynb)
+    - accuracy callbacks
+    - InceptionV3 transfer learning
+    - Freeze layers
+    - Dropout
+    - Binary classification
+    - Append layers
+    - Augmentation
+  
