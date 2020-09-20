@@ -32,5 +32,13 @@ Please don't judge! 🙈
   - Freeze layers
   - Add layers to pretrained model
   - Augmentation
-  
+- Horses vs Humans
+  - [CNN transfer learning](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-3/humans-vs-horses-submission.ipynb)
+    - accuracy callbacks
+    - InceptionV3 transfer learning
+    - Freeze layers
+    - Dropout
+    - Binary classification
+    - Append layers
+    - Augmentation
   
