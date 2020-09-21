@@ -5,7 +5,17 @@ Working on this as it's been over an year since I touched DL or basic Code and n
 
 Please don't judge! 🙈
 
-# Index
+# Index/Log/Journal 
+## Sep 21, 2020
+
+## Sep 20, 2020
+- [Hand signs MNIST](/deeplearning.ai-tensorflow-developer-certificate/2-of-4-cnn-in-tf/week-4/week-4-final-problem-submission.ipynb)
+  - csv data load (manually with numpy/might not be the most optimized format)
+  - numpy reshapes
+  - CNN with BatchNormalization (91% accuracy with just 2 conv blocks!!)
+  - 25 class classification
+  - datagen.flow (from np arrays instead of flow_from_directory)
+  - 2 epochs trained (2 cnn blocks, 1 Fully connnected)
 ## Before Sep 20, 2020
 - [Simple neural net, with numpy array of numbers](/deeplearning.ai-tensorflow-developer-certificate/1-of-4-intro-to-tf/Week_1/Week%201.ipynb)
 - [House prices exercise](/deeplearning.ai-tensorflow-developer-certificate/1-of-4-intro-to-tf/Week_1/Week_1_ex_1.ipynb)
@@ -41,12 +51,3 @@ Please don't judge! 🙈
     - Binary classification
     - Append layers
     - Augmentation
- 
- ## Sep 20, 2020
-- [Hand signs MNIST](/deeplearning.ai-tensorflow-developer-certificate/2-of-4-cnn-in-tf/week-4/week-4-final-problem-submission.ipynb)
-  - csv data load (manually with numpy/might not be the most optimized format)
-  - numpy reshapes
-  - CNN with BatchNormalization (91% accuracy with just 2 conv blocks!!)
-  - 25 class classification
-  - datagen.flow (from np arrays instead of flow_from_directory)
-  - 2 epochs trained (2 cnn blocks, 1 Fully connnected)
