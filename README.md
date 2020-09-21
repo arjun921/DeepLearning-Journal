@@ -41,4 +41,10 @@ Please don't judge! 🙈
     - Binary classification
     - Append layers
     - Augmentation
-  
+- [Hand signs MNIST](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-4/week-4-final-problem-submission.ipynb)
+  - csv data load (manually with numpy/might not be the most optimized format)
+  - numpy reshapes
+  - CNN with BatchNormalization (91% accuracy with just 2 conv blocks!!)
+  - 25 class classification
+  - datagen.flow (from np arrays instead of flow_from_directory)
+  - 2 epochs trained (2 cnn blocks, 1 Fully connnected)
