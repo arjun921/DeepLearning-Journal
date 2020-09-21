@@ -6,6 +6,7 @@ Working on this as it's been over an year since I touched DL or basic Code and n
 Please don't judge! 🙈
 
 # Index
+## Before Sep 20, 2020
 - [Simple neural net, with numpy array of numbers](/coursera-TFInPractiseSpecialization/intro-to-tf/Week_1/Week%201.ipynb)
 - [House prices exercise](/coursera-TFInPractiseSpecialization/intro-to-tf/Week_1/Week_1_ex_1.ipynb)
 - Callbacks
@@ -41,6 +42,8 @@ Please don't judge! 🙈
     - Binary classification
     - Append layers
     - Augmentation
+ 
+ ## Sep 20, 2020
 - [Hand signs MNIST](/coursera-TFInPractiseSpecialization/cnn-in-tf/week-4/week-4-final-problem-submission.ipynb)
   - csv data load (manually with numpy/might not be the most optimized format)
   - numpy reshapes
