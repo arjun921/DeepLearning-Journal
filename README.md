@@ -6,8 +6,10 @@ Working on this as it's been over an year since I touched DL or basic Code and n
 Please don't judge! 🙈
 
 # Journal 
+## Sep 27, 2020
+- [Tokenizing and Padding](/deeplearning.ai-tensorflow-developer-certificate/3-of-4-nlp-in-tf/week-1/sarcasm-detection.ipynb)
 ## Sep 21, 2020
-- [Tokenizing text with keras](deeplearning.ai-tensorflow-developer-certificate/3-of-4-nlp-in-tf/week-1/lesson-1-text-preprocess-tokenizing.ipynb)
+- [Tokenizing text with keras](/deeplearning.ai-tensorflow-developer-certificate/3-of-4-nlp-in-tf/week-1/lesson-1-text-preprocess-tokenizing.ipynb)
 
 ## Sep 20, 2020
 - [Hand signs MNIST](/deeplearning.ai-tensorflow-developer-certificate/2-of-4-cnn-in-tf/week-4/week-4-final-problem-submission.ipynb)
